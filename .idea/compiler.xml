@@ -10,9 +10,6 @@
         <module name="crawl-lucene" />
         <module name="crawl-model" />
         <module name="crawl-util" />
-        <module name="crawlcore" />
-        <module name="crawlmodel" />
-        <module name="crawlutil" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,9 +18,6 @@
       <module name="crawl-lucene" target="1.8" />
       <module name="crawl-model" target="1.8" />
       <module name="crawl-util" target="1.8" />
-      <module name="crawlcore" target="1.8" />
-      <module name="crawlmodel" target="1.5" />
-      <module name="crawlutil" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
