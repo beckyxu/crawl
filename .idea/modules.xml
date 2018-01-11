@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/crawl.iml" filepath="$PROJECT_DIR$/crawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl-core/crawl-core.iml" filepath="$PROJECT_DIR$/crawl-core/crawl-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl-lucene/crawl-lucene.iml" filepath="$PROJECT_DIR$/crawl-lucene/crawl-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl-model/crawl-model.iml" filepath="$PROJECT_DIR$/crawl-model/crawl-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawl-util/crawl-util.iml" filepath="$PROJECT_DIR$/crawl-util/crawl-util.iml" />
     </modules>
   </component>
 </project>

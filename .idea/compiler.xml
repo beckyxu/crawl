@@ -6,11 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="crawl" />
+        <module name="crawl-core" />
+        <module name="crawl-lucene" />
+        <module name="crawl-model" />
+        <module name="crawl-util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="crawl" target="1.5" />
+      <module name="crawl" target="1.8" />
+      <module name="crawl-core" target="1.8" />
+      <module name="crawl-lucene" target="1.8" />
+      <module name="crawl-model" target="1.8" />
+      <module name="crawl-util" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
